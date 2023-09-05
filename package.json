@@ -1,0 +1,22 @@
+{
+  "name": "store",
+  "version": "1.0.0",
+  "description": "latihan",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fayiakram/store.git"
+  },
+  "keywords": [
+    "academic"
+  ],
+  "author": "fayi.akram99@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fayiakram/store/issues"
+  },
+  "homepage": "https://github.com/fayiakram/store#readme"
+}
